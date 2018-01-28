@@ -1,10 +1,10 @@
-package nl.vu.cs.softmod.examples.MultiRobot;
+package nl.vu.cs.sd.examples.MultiRobot;
 
 
 /**
  * Class to easily distinguish between
  * different directions
- * 
+ *
  * @author gkarlos
  *
  */
